@@ -10,8 +10,6 @@
 		"gulp-concat": "*",
 		"gulp-less": "*",
 		"gulp-autoprefixer": "*",
-		"gulp-sourcemaps": "*",
-		"gulp-order": "*",
 		"gulp-cssmin": "*"
 	}
 }
