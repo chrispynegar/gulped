@@ -1,8 +1,8 @@
 {
-	"name": "bootstrap",
+	"name": "Web Application",
 	"description": "",
 	"version": "1.0.0",
-	"author": "Chris Pynegar <chris@chrispynegar.co.uk>",
+	"author": "Tom Durkin <dev@tomdurkin.me>",
 	"devDependencies": {
 		"gulp": "*",
 		"gulp-uglify": "*",
